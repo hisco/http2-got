@@ -22,9 +22,7 @@ const {request} = require('http2-client');
 const got = require('got');
 
 const gotWithHttp2 = got.extend({
-	request : function makeRequest(options , hanler){
-		return request(options , hanler)
-	}
+	request
 });
 ```
 That's it! of course we have additional integration tests to validate this integration... 
