@@ -1,6 +1,6 @@
 {
   "name": "http2-got",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Simplified HTTP2 / HTTP1 request client.",
   "main": "lib/index.js",
   "scripts": {
@@ -37,6 +37,6 @@
   "license": "MIT",
   "dependencies": {
     "got": "^9.2.0",
-    "http2-client": "^1.2.2"
+    "http2-client": "^1.2.5"
   }
 }
