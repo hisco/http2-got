@@ -1,5 +1,7 @@
 # HTTP2 got
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/hisco/http2-got.svg)](https://greenkeeper.io/)
+
 > Simplified HTTP requests
 
 [![NPM Version][npm-image]][npm-url]
